@@ -14,9 +14,9 @@ Nowadays Belial can only be compiled from source, but you can easily download an
 
 After getting the `go` tool, you can enter in your favorite terminal the following:
  - `go get github.com/horaddrim/belial` which will download the source code in your `$GOPATH`
- 		Note: This will download the source code usually to the `$HOME/go/src/github.com/horaddrim/belial` folder unless your specific configurations say otherwise.
- 	- After getting the source code you can go ahead, enter the folder and enter the command `go build -o Belial`, this will produce a binary named `belial` in your current folder.
- 	- No matter where you built the application, after generating the binary move it to the `$HOME/go/bin/` folder (in the default Golang workspace configuration), and if you want to access the tool from pretty much anywhere you want, add the `go/bin` folder to your `$PATH` so you can always have instantly Go-based tools in your terminal.
+ 			Note: This will download the source code usually to the `$HOME/go/src/github.com/horaddrim/belial` folder unless your specific configurations say otherwise.
+ - After getting the source code you can go ahead, enter the folder and enter the command `go build -o Belial`, this will produce a binary named `belial` in your current folder.
+ - No matter where you built the application, after generating the binary move it to the `$HOME/go/bin/` folder (in the default Golang workspace configuration), and if you want to access the tool from pretty much anywhere you want, add the `go/bin` folder to your `$PATH` so you can always have instantly Go-based tools in your terminal.
 
 Congrats :D Is time for some fun :smiling_imp:
 
