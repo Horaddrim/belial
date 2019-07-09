@@ -18,7 +18,7 @@ After getting the `go` tool, you can enter in your favorite terminal the followi
  	- After getting the source code you can go ahead, enter the folder and enter the command `go build -o Belial`, this will produce a binary named `belial` in your current folder.
  	- No matter where you built the application, after generating the binary move it to the `$HOME/go/bin/` folder (in the default Golang workspace configuration), and if you want to access the tool from pretty much anywhere you want, add the `go/bin` folder to your `$PATH` so you can always have instantly Go-based tools in your terminal.
 
-Congrats :D Is time for some fun :smilling_imp:
+Congrats :D Is time for some fun :smiling_imp:
 
 After having the tool installed and available, you can go ahead and see the `help` command output, and get an overview of the current capabilities of your new little network imp.
 
